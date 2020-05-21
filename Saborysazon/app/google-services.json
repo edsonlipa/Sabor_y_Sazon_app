@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1015780810362",
+    "firebase_url": "https://proyecto-sabor-y-sazon.firebaseio.com",
+    "project_id": "proyecto-sabor-y-sazon",
+    "storage_bucket": "proyecto-sabor-y-sazon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015780810362:android:c324dfe8c8a031053b25c3",
+        "android_client_info": {
+          "package_name": "firebase.saborysazon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015780810362-d11cu7aqb0m4km0tpb760kvqed6tlsiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX76oDVmMU9qHYdNXmLEB3a9Pw0v2DJfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015780810362-d11cu7aqb0m4km0tpb760kvqed6tlsiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
